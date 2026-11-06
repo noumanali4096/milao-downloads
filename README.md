@@ -1,21 +1,22 @@
 # MILAO Android testing downloads
 
-Download MILAO staging apps directly on your Android phone. **No GitHub account is required.** These are testing builds; coordinate test orders with your restaurant.
+Download the current MILAO testing apps directly on your Android phone. **No GitHub account is required.**
 
-## Customer — PULSE V4.1, build 43
+## Customer — build 45
 
-- **[Download ARM64 — 21.6 MB, recommended for most phones](https://github.com/noumanali4096/milao-downloads/releases/download/customer-v4.1-testing-build43-20261105/MILAO-Customer-V4.1-Testing-ARM64.apk)**
-- **[Download ARM32 — 19.1 MB, for 32-bit Android](https://github.com/noumanali4096/milao-downloads/releases/download/customer-v4.1-testing-build43-20261105/MILAO-Customer-V4.1-Testing-ARM32.apk)**
-- [Release notes](https://github.com/noumanali4096/milao-downloads/releases/tag/customer-v4.1-testing-build43-20261105) · [Install or update](https://github.com/noumanali4096/milao-downloads/releases/download/customer-v4.1-testing-build43-20261105/INSTALL.md) · [Checksums](https://github.com/noumanali4096/milao-downloads/releases/download/customer-v4.1-testing-build43-20261105/SHA256SUMS.txt)
+- **[Download Customer ARM64 — 21.6 MB, recommended for most phones](https://github.com/noumanali4096/milao-downloads/releases/download/milao-testing-20261106-build45/MILAO-Customer-Build45-ARM64.apk)**
+- **[Download Customer ARM32 — 19.1 MB, for 32-bit Android](https://github.com/noumanali4096/milao-downloads/releases/download/milao-testing-20261106-build45/MILAO-Customer-Build45-ARM32.apk)**
 
-Choose one APK. If you have Customer Testing build 41 or 42, install build 43 over it without uninstalling. The older 3 November pilot used a different signing key; read the installation instructions first.
+Choose one Customer APK. This update includes phone-only sign-in, Pakistani mobile-number validation, address-save handling, and delivered-order display/tracking fixes.
 
-## Rider — PULSE V4.1, build 2
+## Rider — current PULSE V4.1 testing build 2
 
-**[Download Rider testing APK (6.3 MB)](https://github.com/noumanali4096/milao-downloads/releases/download/pulse-v4.1-testing-20261104/MILAO-Rider-V4.1-Testing.apk)** · [Installation notes](https://github.com/noumanali4096/milao-downloads/releases/tag/pulse-v4.1-testing-20261104) · [Checksums](https://github.com/noumanali4096/milao-downloads/releases/download/pulse-v4.1-testing-20261104/SHA256SUMS.txt)
+**[Download Rider — 6.3 MB](https://github.com/noumanali4096/milao-downloads/releases/download/milao-testing-20261106-build45/MILAO-Rider-V4.1-Testing.apk)**
 
-Rider is unchanged in this Customer update.
+The Rider APK is the same current testing build, included here alongside Customer build 45.
 
-Use your dedicated staging account. Download APK files rather than automatic source-code archives. These builds are not production-approved. Physical ARM phone performance and Urdu editorial review remain pending.
+[Install or update](https://github.com/noumanali4096/milao-downloads/releases/download/milao-testing-20261106-build45/INSTALL.md) · [Checksums](https://github.com/noumanali4096/milao-downloads/releases/download/milao-testing-20261106-build45/SHA256SUMS.txt) · [Release notes](https://github.com/noumanali4096/milao-downloads/releases/tag/milao-testing-20261106-build45)
 
-Do not publish credentials or personal details in GitHub issues. This repository distributes testing binaries and instructions; it does not publish the MILAO application source code or grant an open-source license.
+These apps connect to MILAO staging. Use a dedicated staging account and coordinate test orders with your restaurant. They are testing builds, not production-approved releases. Customer live address-save/delivery/cash workflows and physical-phone checks remain pending for this build.
+
+Download the APK files, not GitHub's automatic source-code archives. Do not publish credentials or personal details in GitHub issues. This repository distributes binaries and instructions; it does not publish the application source code or grant an open-source license.
