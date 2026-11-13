@@ -9,11 +9,11 @@ Download the current MILAO staging testing apps on your Android phone. **No GitH
 
 Choose one Customer APK. Build 49 is a redesign of the whole app. You can now browse restaurants and menus before signing in, and are asked for an account the first time you add a dish. It adds one-tap adding from the menu, menu search, "Order again" under a restaurant's menu, "Frequently bought together" on a dish, and "Popular with your order" in the cart. Checkout shows the restaurant's payment account where a restaurant takes online transfers, and Raast is supported as a transfer method. A food-type row appears on the home screen once restaurants have been tagged. It retains reviews, Help & Support and the earlier order improvements.
 
-## Rider — PULSE V4.1 testing build 3
+## Rider — testing build 4
 
-**[Download Rider — 6.15 MB](https://github.com/noumanali4096/milao-downloads/releases/download/milao-testing-20261113-build49/MILAO-Rider-V4.1-Testing-build3.apk)**
+**[Download Rider — 6.17 MB](https://github.com/noumanali4096/milao-downloads/releases/download/milao-testing-20261113-rider-build4/MILAO-Rider-Testing-build4.apk)**
 
-Build 3 is unchanged in this release. It improves assignment monitoring, synchronization, sign-out, kitchen readiness, delivery failure reporting, cash history and English/Urdu dialog usability. Cash recording and restaurant confirmation remain separate.
+Build 4 is a redesign of the delivery screens. The address, landmark, customer note, Call, WhatsApp, Navigate and the cash amount are on one screen; pickup and "received, delivered" are one tap each; with more than one order the rider chooses which stop to go to next. It adds today's deliveries and the cash to hand to the restaurant, night mode, a Phone setup screen, a louder new-delivery alert that keeps ringing until opened, and an alert when an order is ready. A weak signal no longer signs the rider out. It updates Build 3 in place. [Rider install notes](https://github.com/noumanali4096/milao-downloads/releases/download/milao-testing-20261113-rider-build4/INSTALL.md) · [Rider checksum](https://github.com/noumanali4096/milao-downloads/releases/download/milao-testing-20261113-rider-build4/SHA256SUMS.txt)
 
 ## Restaurant
 
